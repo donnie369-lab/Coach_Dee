@@ -81,7 +81,7 @@ fun DoingWhatIWantToDo(){
 fun Quetionaires(){
     //Question 1 is here to evaluate the student' on-campus experience.//
     println("Question 1" +
-            "Are you happy with the experience at the IIE' Varsity College and what course and the year are you ?")
+            "Are you happy with the experience at the IIE' Varsity College and what course and the year are you completing?")
     val Answer_001 = readln()
 
     //Question 2 is here to determine whether the student will continue with their here at the IIE' Varsity College.//
